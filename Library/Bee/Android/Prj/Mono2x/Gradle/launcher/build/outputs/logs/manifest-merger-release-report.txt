@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-86:12
+MERGED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:2:1-19:12
+MERGED from [:nrvirtualcontroller:] /Users/user/.gradle/caches/transforms-2/files-2.1/84ced733f125fd8af20d7c362b8376b9/nrvirtualcontroller/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-105
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:106-152
+	android:versionCode
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:153-193
+supports-screens
+ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:40
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:40
+	android:largeScreens
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-84:19
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-84:19
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:9-41
+	android:label
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+	android:theme
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-50
+uses-sdk
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-12:57
+MERGED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-12:57
+MERGED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:7:5-9:41
+MERGED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:7:5-9:41
+MERGED from [:nrvirtualcontroller:] /Users/user/.gradle/caches/transforms-2/files-2.1/84ced733f125fd8af20d7c362b8376b9/nrvirtualcontroller/AndroidManifest.xml:7:5-9:41
+MERGED from [:nrvirtualcontroller:] /Users/user/.gradle/caches/transforms-2/files-2.1/84ced733f125fd8af20d7c362b8376b9/nrvirtualcontroller/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-54
+	android:targetSdkVersion
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:22-65
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:22-78
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:9-61:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-194
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:27-74
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:17-53
+meta-data#nreal_sdk
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-37
+meta-data#com.nreal.supportDevices
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:51
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-48
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-52
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:9-71:33
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-74:36
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-77:36
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:77:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:76:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:78:9-80:37
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:80:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:81:9-83:50
+	android:value
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:83:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:82:13-40
+queries
+ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:11:5-15:15
+intent
+ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:12:9-14:18
+action#ai.nreal.nrsdk.network.type.server
+ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:13:21-70
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from [:nr_api:] /Users/user/.gradle/caches/transforms-2/files-2.1/684927e48caaf98ceda910bd1d88a662/nr_api/AndroidManifest.xml:17:22-82

@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "53,-1",
+                        "endColumns": "45,-1",
+                        "endOffsets": "96,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "101,149",
+                        "endColumns": "47,67",
+                        "endOffsets": "144,212"
+                    }
+                },
+                {
+                    "source": "/Users/user/qr_scanner/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "217,317,455",
+                        "endLines": "6,9,13",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "312,450,677"
+                    }
+                },
+                {
+                    "source": "/Users/user/.gradle/caches/transforms-2/files-2.1/84ced733f125fd8af20d7c362b8376b9/nrvirtualcontroller/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "682",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1081"
+                    }
+                }
+            ]
+        }
+    ]
+}
