@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B0913CA3-59B9-0DC8-B5F8-5BADD641F9B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/QRScannerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/QrScanner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/QRScannerController.cs" Line="160" Column="58" />
+      <File FileName="Assets/NRSDK/Demos/RGBCamera/Scripts/CameraCaptureController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="qr_scanner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NRSDK" expanded="True">
+                <Node name="Demos" expanded="True">
+                  <Node name="HelloMR" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="RGBCamera" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Script" expanded="True">
+                <Node name="QRScannerController.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0080e6dd-6363-433f-bbec-59250493be4d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

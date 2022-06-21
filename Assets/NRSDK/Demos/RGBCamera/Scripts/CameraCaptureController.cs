@@ -9,7 +9,7 @@
 
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
+using System.Collections.Generic;
 using ZXing;
 
 namespace NRKernal.NRExamples
@@ -23,7 +23,15 @@ namespace NRKernal.NRExamples
         /// <summary> Number of frames. </summary>
         public Text FrameCount;
         public Text textOut;                 
-        public Text textOutPinch; 
+        public Text textOutPinch;
+
+        /// <summary> for not. </summary>
+        public GameObject infoPrefab;
+
+        Text infoText;
+
+        /// <summary> for not. </summary>
+        public GameObject QrCodeScannerObj;
 
         /// <summary> Gets or sets the RGB camera texture. </summary>
         /// <value> The RGB camera texture. </value>
@@ -32,16 +40,26 @@ namespace NRKernal.NRExamples
         private HandState handState = null;
         // private shouldScan = true;
 
+        Dictionary<string, string> myData = null;
+
+        //qrcode
+        string myQrCode = null;
 
         void Start()
         {
+            infoPrefab.SetActive(false);
             RGBCamTexture = new NRRGBCamTexture();
-            CaptureImage.texture = RGBCamTexture.GetTexture();
+            //CaptureImage.texture = RGBCamTexture.GetTexture();
             RGBCamTexture.Play();
             Debug.Log("Start called");
             handState = NRInput.Hands.GetHandState(HandEnum.RightHand);
-
+            myData = new Dictionary<string, string>(){
+                    {"https://product101", "product101"},
+                    {"https://car-seller", "car"},
+                    {"https://shoes.com", "shoes"}
+                };
             // Scan();
+            
         }
 
         /// <summary> Updates this object. </summary>
@@ -51,15 +69,20 @@ namespace NRKernal.NRExamples
             {
                 return;
             }
-            Debug.Log("Update called");
+            //Debug.Log("Update called");
             FrameCount.text = RGBCamTexture.FrameCount.ToString();
-            Scan();
-            if(handState.isPinching){
-                textOutPinch.text = "1111";
-                textOut.text = "Scanning ...";
-            }else{
-                textOutPinch.text = "0000";
-            } 
+
+            if (NRInput.GetButton(ControllerButton.TRIGGER))
+            {
+                Scan();
+            }
+
+            //if (handState.isPinching){
+            //    textOutPinch.text = "1111";
+            //    textOut.text = "Scanning ...";
+            //}else{
+            //    textOutPinch.text = "0000";
+            //} 
 
             }
 
@@ -69,13 +92,13 @@ namespace NRKernal.NRExamples
             if (RGBCamTexture == null)
             {
                 RGBCamTexture = new NRRGBCamTexture();
-                CaptureImage.texture = RGBCamTexture.GetTexture();
+                //CaptureImage.texture = RGBCamTexture.GetTexture();
             }
 
             RGBCamTexture.Play();
             // The origin texture will be destroyed after call "Stop",
             // Rebind the texture.
-            CaptureImage.texture = RGBCamTexture.GetTexture();
+            //CaptureImage.texture = RGBCamTexture.GetTexture();
 
             // Scan();
 
@@ -114,7 +137,7 @@ namespace NRKernal.NRExamples
                 // textOut.fontSize = 30;
             }
         }catch{
-            textOut.text = "Failed to scan :( ";
+            //textOut.text = "Failed to scan :( ";
         }
         }
 
@@ -126,6 +149,21 @@ namespace NRKernal.NRExamples
         public void OpenLink(){
             Application.OpenURL(textOut.text.ToString());
             Debug.Log("Openinig link");
+        }
+
+        public void viewInformation()
+        {
+            myQrCode = textOut.text;
+            
+            QrCodeScannerObj.SetActive(false);
+            infoPrefab.SetActive(true);
+            Debug.Log("Hello");
+        }
+
+        public void exitInformation()
+        {
+            QrCodeScannerObj.SetActive(true);
+            infoPrefab.SetActive(false);
         }
     }
 }
